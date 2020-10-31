@@ -5,6 +5,6 @@
 #include "stdio.h"
 
 int main(){
-    printf("Hello world hs");
+    printf("Hello world h  s");
     return 0;
 }
